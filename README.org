@@ -1,0 +1,9 @@
+* dartsclemailaddress
+
+Email address parsing and validation for Common Lisp.
+
+|---------+--------------------------------------------------------------------|
+| source  | git:https://github.com/deterministic-arts/DartsCLEmailAddress.git |
+| commit  | 4846463                                                            |
+| systems | dartsclemailaddress                                                |
+|---------+--------------------------------------------------------------------|
